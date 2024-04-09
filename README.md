@@ -1,4 +1,4 @@
-![image](https://github.com/sivakumarss/TalCalenderBooking/assets/20783701/0ab0c61c-7c63-47a2-acb1-55f367e79ed1)# TalCalenderBooking
+# TalCalenderBooking
 It is a Console application developed in .Net 8 with EF core Database first approach. 
 
 To RUN:
@@ -47,3 +47,4 @@ Areas needs improvement:
 - Each folder can be used as Seperate class library project (Though not required for this requirement)
 - Unit Testing (Setting up the Unit test project will consume some time)
   
+![image](https://github.com/sivakumarss/TalCalenderBooking/assets/20783701/0ab0c61c-7c63-47a2-acb1-55f367e79ed1)
