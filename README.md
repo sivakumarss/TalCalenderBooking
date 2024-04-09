@@ -1,10 +1,16 @@
-# TalCalenderBooking
+![image](https://github.com/sivakumarss/TalCalenderBooking/assets/20783701/0ab0c61c-7c63-47a2-acb1-55f367e79ed1)# TalCalenderBooking
 It is a Console application developed in .Net 8 with EF core Database first approach. 
 
 To RUN:
 ------------
 1. Create an Database in Sql Server/ Sql express   and run the SQL Query Table Create Script.sql
 2. Please change the connection string in the CalenderBookingDbContext.cs
+3. Please see the following image files for better understanding
+   - TestRun in PS with all scenarios.jpg
+   - Project folder structure.jpg
+   - Database structure.jpg
+   - Powershell demo.jpg
+   - ConsoleApp Demo.jpg
 
 
 
